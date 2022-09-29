@@ -1,0 +1,20 @@
+Rest API Automation Framework from Scratch
+- create Maven project with Cucumber and Rest Assured Dependencies
+- define Project Structure with Cucumber Framework Setup
+- Create Feature File with the Test case you want to Auomate
+- implement Smart Step Definition files with supported code
+- build utils file to define all reusable request and response specification
+- build POJO classes for Serializing and Deserializing Json payload
+- implement logging into Framework to log request and response specifications
+- develop ene 2 end functionality Test with all validations and Assertions
+- Define Global properties and drive all the global variables from Properties file
+- Define Enum class with constants to centralize all resource details
+- Implement Data Driven Mechanism to drive data dinamically from Feature files
+- implement Parametrization to tun test with multiple data sets using Cucumber Example Keyword
+- Add more tests and implement Tagging Mechanism to run selected Tests from Test Runner file
+- implement Pre and Post Conditions for tests with Cucumber Hooks
+- execute Complete Framework from Maven commands
+- implement Maven driven global values into Test for Dynamic execution
+- Generate Reports for Test Execution results 
+- integrate the Framework into Jenkins CI/CD tool
+- implement Parameterized Jenkin job to choose the global values at run
