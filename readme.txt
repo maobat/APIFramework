@@ -18,3 +18,5 @@ Rest API Automation Framework from Scratch
 - Generate Reports for Test Execution results 
 - integrate the Framework into Jenkins CI/CD tool
 - implement Parameterized Jenkin job to choose the global values at run
+
+cia ciao
